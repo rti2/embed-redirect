@@ -1,3 +1,3 @@
 # Piped-Redirects
 
-Redirect YouTube links to Piped!
+Redirect YouTube links to Youtube Embed links!
